@@ -18,3 +18,15 @@ A Spring Boot-based WiFi user management system with REST APIs and MySQL integra
 - Clean API design following REST principles  
 - Uses JPA for DB operations with MySQL
 
+
+## ⚙️ How to Run
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/chabirani/Hathway-wifi.git
+
+# 2. Move into the project folder
+cd Hathway-wifi
+
+# 3. Run the app using Maven Wrapper
+./mvnw spring-boot:run
