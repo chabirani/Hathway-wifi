@@ -4,7 +4,8 @@ A Spring Boot-based WiFi user management system with REST APIs and MySQL integra
 ---
 
 ## 🚀 Overview  
-**Hathway-wifi** is a backend system for managing WiFi users using Spring Boot and MySQL. It provides clean and efficient REST APIs following standard design patterns.
+**Hathway-wifi** is a backend system for managing WiFi users using Spring Boot and MySQL.  
+It provides clean and efficient REST APIs following standard design patterns.
 
 ---
 
@@ -41,3 +42,4 @@ cd Hathway-wifi
 
 # 3. Run the app using Maven Wrapper
 ./mvnw spring-boot:run
+
